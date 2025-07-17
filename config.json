@@ -33,7 +33,7 @@
       "name": "360资源"
     },
     "iqiyi": {
-      "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "name": "iqiyi资源"
     },
     "wolong": {
@@ -76,6 +76,33 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
-    }
+    },
+    "mtcj": {
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "name": "茅台资源"
+    },
+    "yayazy": {
+      "api": "https://cj.yayazy.net/api.php/provide/vod",
+      "name": "鸭鸭资源"
+    },
+    "okzy": {
+      "api": "https://api.okzyw.net/api.php/provide/vod",
+      "name": "ok资源"
+    },
+    "fcpk": {
+      "api": "https://api.fczy888.me/api.php/provide/vod",
+      "name": "蜂巢片库"
+    },
+    "lzzy": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "name": "量子资源站"
+    },
+    "sdzy": {
+      "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
+      "name": "闪电资源"
+    },
+    "snzy": {
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "name": "索尼资源"
   }
 }
